@@ -1,5 +1,7 @@
 {
   "modelVersion": "26.0.0",
+  "name": "lihetong_5126210100429",
+  "version": "1.0.0",
   "description": "Please describe the basic information.",
   "dependencies": {
     "@ohos/axios": "^2.2.0"

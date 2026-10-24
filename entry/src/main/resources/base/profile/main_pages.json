@@ -1,6 +1,7 @@
 {
   "src": [
     "pages/Index",
+    "light/LightPage",
     "pages/router/pushAndReplace/SourcePage",
     "pages/router/pushAndReplace/TargetPage",
     "pages/router/back/FromPage",
